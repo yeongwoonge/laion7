@@ -51,9 +51,9 @@ namespace 복습_실습
             bool hpCondition = currentHp >= maxHp / 2;
             Console.WriteLine("\n\n= 던전 입장 가능 여부 =");
             Console.WriteLine("=== 던전 입장 조건 ===");
-            Console.WriteLine($"레벨 조건 (30 이상)  : {levelCondition}");
+            Console.WriteLine($"레벨 조건 ({requiredLevel} 이상)  : {levelCondition}");
             Console.WriteLine($"열쇠 보유            : {hasKey}");
-            Console.WriteLine($"체력 조건 (50% 이상) : {hpCondition}");
+            Console.WriteLine($"체력 조건 ({maxHp/2}% 이상) : {hpCondition}");
             Console.WriteLine($"입장 가능            : {levelCondition && hpCondition && hasKey}");
 
             // 문제 5: 상점 할인 계산기
