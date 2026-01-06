@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day003\var 데이터 형식 자동 추론\var 데이터 형식 자동 추론\bin\Debug\var 데이터 형식 자동 추론.exe.config
+C:\lion7project\laion7\day003\var 데이터 형식 자동 추론\var 데이터 형식 자동 추론\bin\Debug\var 데이터 형식 자동 추론.exe
+C:\lion7project\laion7\day003\var 데이터 형식 자동 추론\var 데이터 형식 자동 추론\bin\Debug\var 데이터 형식 자동 추론.pdb
+C:\lion7project\laion7\day003\var 데이터 형식 자동 추론\var 데이터 형식 자동 추론\obj\Debug\var 데이터 형식 자동 추론.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day003\var 데이터 형식 자동 추론\var 데이터 형식 자동 추론\obj\Debug\var 데이터 형식 자동 추론.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day003\var 데이터 형식 자동 추론\var 데이터 형식 자동 추론\obj\Debug\var 데이터 형식 자동 추론.exe
+C:\lion7project\laion7\day003\var 데이터 형식 자동 추론\var 데이터 형식 자동 추론\obj\Debug\var 데이터 형식 자동 추론.pdb
+C:\lion7project\laion7\day003\var 데이터 형식 자동 추론\var 데이터 형식 자동 추론\obj\Debug\var 데이터 형식 자동 추론.exe.config

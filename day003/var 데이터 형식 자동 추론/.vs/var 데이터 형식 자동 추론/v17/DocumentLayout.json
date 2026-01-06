@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lion7project\\laion7\\day003\\var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB4B84C-6A7C-4FA0-8DB5-D7A366D85EF0}|var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860.csproj|c:\\lion7project\\laion7\\day003\\var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB4B84C-6A7C-4FA0-8DB5-D7A366D85EF0}|var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860.csproj|solutionrelative:var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lion7project\\laion7\\day003\\var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\Program.cs",
+              "RelativeDocumentMoniker": "var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\Program.cs",
+              "ToolTip": "C:\\lion7project\\laion7\\day003\\var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\Program.cs",
+              "RelativeToolTip": "var \uB370\uC774\uD130 \uD615\uC2DD \uC790\uB3D9 \uCD94\uB860\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwFEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T01:20:52.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

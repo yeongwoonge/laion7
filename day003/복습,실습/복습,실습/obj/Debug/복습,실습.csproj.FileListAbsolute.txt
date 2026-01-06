@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day003\복습,실습\복습,실습\bin\Debug\복습,실습.exe.config
+C:\lion7project\laion7\day003\복습,실습\복습,실습\bin\Debug\복습,실습.exe
+C:\lion7project\laion7\day003\복습,실습\복습,실습\bin\Debug\복습,실습.pdb
+C:\lion7project\laion7\day003\복습,실습\복습,실습\obj\Debug\복습,실습.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day003\복습,실습\복습,실습\obj\Debug\복습,실습.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day003\복습,실습\복습,실습\obj\Debug\복습,실습.exe
+C:\lion7project\laion7\day003\복습,실습\복습,실습\obj\Debug\복습,실습.pdb
+C:\lion7project\laion7\day003\복습,실습\복습,실습\obj\Debug\복습,실습.exe.config

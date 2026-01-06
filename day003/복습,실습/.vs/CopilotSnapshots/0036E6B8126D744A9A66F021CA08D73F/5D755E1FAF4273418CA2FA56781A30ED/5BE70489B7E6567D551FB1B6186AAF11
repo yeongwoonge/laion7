@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace 복습_실습
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // 문제 1: RPG 체력 계산기
+            int playerMaxHealth = 100;
+            int playerCurrentHealth = 80;
+            int monsterAttackDamage = 25;
+            int healingPotionAmount = 30;
+            int poisonDamage = 5;
+
+            Console.WriteLine("초기 체력".PadRight(15) + $": {playerCurrentHealth}/{playerMaxHealth}");
+            Console.WriteLine($"데미지 {-monsterAttackDamage}".PadRight(15) + $": {playerCurrentHealth -= monsterAttackDamage}/{playerMaxHealth}");
+            Console.WriteLine($"회복 +{healingPotionAmount}".PadRight(15) + $": {playerCurrentHealth += healingPotionAmount}/{playerMaxHealth}");
+            Console.WriteLine($"독 데미지 {-poisonDamage}".PadRight(15) + $": {playerCurrentHealth -= poisonDamage}/{playerMaxHealth}");
+
+
+        }
+    }
+}
