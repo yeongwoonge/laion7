@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\lion7project\\laion7\\ConsoleApp12\\",
+  "WorkspaceRootPath": "C:\\lion7project\\laion7\\day002\\ConsoleApp12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4678ED94-6CAF-4F33-8233-4FCD4DC6373D}|ConsoleApp12\\ConsoleApp12.csproj|c:\\lion7project\\laion7\\consoleapp12\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4678ED94-6CAF-4F33-8233-4FCD4DC6373D}|ConsoleApp12\\ConsoleApp12.csproj|c:\\lion7project\\laion7\\day002\\consoleapp12\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4678ED94-6CAF-4F33-8233-4FCD4DC6373D}|ConsoleApp12\\ConsoleApp12.csproj|solutionrelative:consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\lion7project\\laion7\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "DocumentMoniker": "C:\\lion7project\\laion7\\day002\\ConsoleApp12\\ConsoleApp12\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp12\\Program.cs",
-              "ToolTip": "C:\\lion7project\\laion7\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "ToolTip": "C:\\lion7project\\laion7\\day002\\ConsoleApp12\\ConsoleApp12\\Program.cs",
               "RelativeToolTip": "ConsoleApp12\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA1wCoAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCoAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T07:08:01.383Z",
               "EditorCaption": ""

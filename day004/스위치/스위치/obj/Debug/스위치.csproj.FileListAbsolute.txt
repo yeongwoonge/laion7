@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day004\스위치\스위치\obj\Debug\스위치.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day004\스위치\스위치\obj\Debug\스위치.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day004\스위치\스위치\bin\Debug\스위치.exe.config
+C:\lion7project\laion7\day004\스위치\스위치\bin\Debug\스위치.exe
+C:\lion7project\laion7\day004\스위치\스위치\bin\Debug\스위치.pdb
+C:\lion7project\laion7\day004\스위치\스위치\obj\Debug\스위치.exe
+C:\lion7project\laion7\day004\스위치\스위치\obj\Debug\스위치.pdb
+C:\lion7project\laion7\day004\스위치\스위치\obj\Debug\스위치.exe.config

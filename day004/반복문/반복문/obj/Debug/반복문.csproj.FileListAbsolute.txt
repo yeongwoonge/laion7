@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day004\반복문\반복문\obj\Debug\반복문.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day004\반복문\반복문\obj\Debug\반복문.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day004\반복문\반복문\bin\Debug\반복문.exe.config
+C:\lion7project\laion7\day004\반복문\반복문\bin\Debug\반복문.exe
+C:\lion7project\laion7\day004\반복문\반복문\bin\Debug\반복문.pdb
+C:\lion7project\laion7\day004\반복문\반복문\obj\Debug\반복문.exe
+C:\lion7project\laion7\day004\반복문\반복문\obj\Debug\반복문.pdb
+C:\lion7project\laion7\day004\반복문\반복문\obj\Debug\반복문.exe.config

@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day004\제어문\제어문\bin\Debug\제어문.exe.config
+C:\lion7project\laion7\day004\제어문\제어문\bin\Debug\제어문.exe
+C:\lion7project\laion7\day004\제어문\제어문\bin\Debug\제어문.pdb
+C:\lion7project\laion7\day004\제어문\제어문\obj\Debug\제어문.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day004\제어문\제어문\obj\Debug\제어문.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day004\제어문\제어문\obj\Debug\제어문.exe
+C:\lion7project\laion7\day004\제어문\제어문\obj\Debug\제어문.pdb
+C:\lion7project\laion7\day004\제어문\제어문\obj\Debug\제어문.exe.config
