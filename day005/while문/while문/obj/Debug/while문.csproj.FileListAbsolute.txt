@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day005\while문\while문\bin\Debug\while문.exe.config
+C:\lion7project\laion7\day005\while문\while문\bin\Debug\while문.exe
+C:\lion7project\laion7\day005\while문\while문\bin\Debug\while문.pdb
+C:\lion7project\laion7\day005\while문\while문\obj\Debug\while문.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day005\while문\while문\obj\Debug\while문.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day005\while문\while문\obj\Debug\while문.exe
+C:\lion7project\laion7\day005\while문\while문\obj\Debug\while문.pdb
+C:\lion7project\laion7\day005\while문\while문\obj\Debug\while문.exe.config

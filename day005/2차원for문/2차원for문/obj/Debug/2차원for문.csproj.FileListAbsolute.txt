@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day005\2차원for문\2차원for문\bin\Debug\2차원for문.exe.config
+C:\lion7project\laion7\day005\2차원for문\2차원for문\bin\Debug\2차원for문.exe
+C:\lion7project\laion7\day005\2차원for문\2차원for문\bin\Debug\2차원for문.pdb
+C:\lion7project\laion7\day005\2차원for문\2차원for문\obj\Debug\2차원for문.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day005\2차원for문\2차원for문\obj\Debug\2차원for문.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day005\2차원for문\2차원for문\obj\Debug\2차원for문.exe
+C:\lion7project\laion7\day005\2차원for문\2차원for문\obj\Debug\2차원for문.pdb
+C:\lion7project\laion7\day005\2차원for문\2차원for문\obj\Debug\2차원for문.exe.config

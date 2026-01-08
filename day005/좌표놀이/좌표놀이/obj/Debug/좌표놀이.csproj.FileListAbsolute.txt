@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day005\좌표놀이\좌표놀이\obj\Debug\좌표놀이.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day005\좌표놀이\좌표놀이\obj\Debug\좌표놀이.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day005\좌표놀이\좌표놀이\bin\Debug\좌표놀이.exe.config
+C:\lion7project\laion7\day005\좌표놀이\좌표놀이\bin\Debug\좌표놀이.exe
+C:\lion7project\laion7\day005\좌표놀이\좌표놀이\bin\Debug\좌표놀이.pdb
+C:\lion7project\laion7\day005\좌표놀이\좌표놀이\obj\Debug\좌표놀이.exe
+C:\lion7project\laion7\day005\좌표놀이\좌표놀이\obj\Debug\좌표놀이.pdb
+C:\lion7project\laion7\day005\좌표놀이\좌표놀이\obj\Debug\좌표놀이.exe.config
