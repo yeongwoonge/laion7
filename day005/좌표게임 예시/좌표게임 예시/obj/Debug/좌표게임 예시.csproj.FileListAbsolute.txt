@@ -5,3 +5,4 @@ C:\lion7project\laion7\day005\좌표게임 예시\좌표게임 예시\obj\Debug\
 C:\lion7project\laion7\day005\좌표게임 예시\좌표게임 예시\obj\Debug\좌표게임 예시.csproj.CoreCompileInputs.cache
 C:\lion7project\laion7\day005\좌표게임 예시\좌표게임 예시\obj\Debug\좌표게임 예시.exe
 C:\lion7project\laion7\day005\좌표게임 예시\좌표게임 예시\obj\Debug\좌표게임 예시.pdb
+C:\lion7project\laion7\day005\좌표게임 예시\좌표게임 예시\obj\Debug\좌표게임 예시.exe.config

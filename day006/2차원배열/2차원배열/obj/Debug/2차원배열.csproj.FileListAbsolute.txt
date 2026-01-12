@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day006\2차원배열\2차원배열\bin\Debug\2차원배열.exe.config
+C:\lion7project\laion7\day006\2차원배열\2차원배열\bin\Debug\2차원배열.exe
+C:\lion7project\laion7\day006\2차원배열\2차원배열\bin\Debug\2차원배열.pdb
+C:\lion7project\laion7\day006\2차원배열\2차원배열\obj\Debug\2차원배열.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day006\2차원배열\2차원배열\obj\Debug\2차원배열.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day006\2차원배열\2차원배열\obj\Debug\2차원배열.exe
+C:\lion7project\laion7\day006\2차원배열\2차원배열\obj\Debug\2차원배열.pdb
+C:\lion7project\laion7\day006\2차원배열\2차원배열\obj\Debug\2차원배열.exe.config

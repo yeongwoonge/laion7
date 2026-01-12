@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day006\배여르\배여르\obj\Debug\배여르.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day006\배여르\배여르\obj\Debug\배여르.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day006\배여르\배여르\bin\Debug\배여르.exe.config
+C:\lion7project\laion7\day006\배여르\배여르\bin\Debug\배여르.exe
+C:\lion7project\laion7\day006\배여르\배여르\bin\Debug\배여르.pdb
+C:\lion7project\laion7\day006\배여르\배여르\obj\Debug\배여르.exe
+C:\lion7project\laion7\day006\배여르\배여르\obj\Debug\배여르.pdb
+C:\lion7project\laion7\day006\배여르\배여르\obj\Debug\배여르.exe.config

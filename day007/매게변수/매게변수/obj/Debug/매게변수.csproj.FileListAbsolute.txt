@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day007\매게변수\매게변수\obj\Debug\매게변수.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day007\매게변수\매게변수\obj\Debug\매게변수.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day007\매게변수\매게변수\bin\Debug\매게변수.exe.config
+C:\lion7project\laion7\day007\매게변수\매게변수\bin\Debug\매게변수.exe
+C:\lion7project\laion7\day007\매게변수\매게변수\bin\Debug\매게변수.pdb
+C:\lion7project\laion7\day007\매게변수\매게변수\obj\Debug\매게변수.exe
+C:\lion7project\laion7\day007\매게변수\매게변수\obj\Debug\매게변수.pdb
+C:\lion7project\laion7\day007\매게변수\매게변수\obj\Debug\매게변수.exe.config

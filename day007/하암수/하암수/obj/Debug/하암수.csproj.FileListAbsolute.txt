@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day007\하암수\하암수\bin\Debug\하암수.exe.config
+C:\lion7project\laion7\day007\하암수\하암수\bin\Debug\하암수.exe
+C:\lion7project\laion7\day007\하암수\하암수\bin\Debug\하암수.pdb
+C:\lion7project\laion7\day007\하암수\하암수\obj\Debug\하암수.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day007\하암수\하암수\obj\Debug\하암수.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day007\하암수\하암수\obj\Debug\하암수.exe
+C:\lion7project\laion7\day007\하암수\하암수\obj\Debug\하암수.pdb
+C:\lion7project\laion7\day007\하암수\하암수\obj\Debug\하암수.exe.config

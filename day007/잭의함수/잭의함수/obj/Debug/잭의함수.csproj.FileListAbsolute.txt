@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day007\잭의함수\잭의함수\obj\Debug\잭의함수.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day007\잭의함수\잭의함수\obj\Debug\잭의함수.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day007\잭의함수\잭의함수\bin\Debug\잭의함수.exe.config
+C:\lion7project\laion7\day007\잭의함수\잭의함수\bin\Debug\잭의함수.exe
+C:\lion7project\laion7\day007\잭의함수\잭의함수\bin\Debug\잭의함수.pdb
+C:\lion7project\laion7\day007\잭의함수\잭의함수\obj\Debug\잭의함수.exe
+C:\lion7project\laion7\day007\잭의함수\잭의함수\obj\Debug\잭의함수.pdb
+C:\lion7project\laion7\day007\잭의함수\잭의함수\obj\Debug\잭의함수.exe.config

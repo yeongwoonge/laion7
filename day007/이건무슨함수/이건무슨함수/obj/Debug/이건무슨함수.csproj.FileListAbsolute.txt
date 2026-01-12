@@ -1,0 +1,7 @@
+C:\lion7project\laion7\day007\이건무슨함수\이건무슨함수\bin\Debug\이건무슨함수.exe.config
+C:\lion7project\laion7\day007\이건무슨함수\이건무슨함수\bin\Debug\이건무슨함수.exe
+C:\lion7project\laion7\day007\이건무슨함수\이건무슨함수\bin\Debug\이건무슨함수.pdb
+C:\lion7project\laion7\day007\이건무슨함수\이건무슨함수\obj\Debug\이건무슨함수.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day007\이건무슨함수\이건무슨함수\obj\Debug\이건무슨함수.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day007\이건무슨함수\이건무슨함수\obj\Debug\이건무슨함수.exe
+C:\lion7project\laion7\day007\이건무슨함수\이건무슨함수\obj\Debug\이건무슨함수.pdb

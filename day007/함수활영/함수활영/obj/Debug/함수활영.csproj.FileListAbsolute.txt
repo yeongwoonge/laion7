@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day007\함수활영\함수활영\obj\Debug\함수활영.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day007\함수활영\함수활영\obj\Debug\함수활영.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day007\함수활영\함수활영\bin\Debug\함수활영.exe.config
+C:\lion7project\laion7\day007\함수활영\함수활영\bin\Debug\함수활영.exe
+C:\lion7project\laion7\day007\함수활영\함수활영\bin\Debug\함수활영.pdb
+C:\lion7project\laion7\day007\함수활영\함수활영\obj\Debug\함수활영.exe
+C:\lion7project\laion7\day007\함수활영\함수활영\obj\Debug\함수활영.pdb
+C:\lion7project\laion7\day007\함수활영\함수활영\obj\Debug\함수활영.exe.config

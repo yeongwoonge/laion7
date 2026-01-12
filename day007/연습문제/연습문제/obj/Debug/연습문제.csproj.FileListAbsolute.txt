@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day007\연습문제\연습문제\obj\Debug\연습문제.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day007\연습문제\연습문제\obj\Debug\연습문제.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day007\연습문제\연습문제\bin\Debug\연습문제.exe.config
+C:\lion7project\laion7\day007\연습문제\연습문제\bin\Debug\연습문제.exe
+C:\lion7project\laion7\day007\연습문제\연습문제\bin\Debug\연습문제.pdb
+C:\lion7project\laion7\day007\연습문제\연습문제\obj\Debug\연습문제.exe
+C:\lion7project\laion7\day007\연습문제\연습문제\obj\Debug\연습문제.pdb
+C:\lion7project\laion7\day007\연습문제\연습문제\obj\Debug\연습문제.exe.config

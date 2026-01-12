@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day006\리스트트트\리스트트트\bin\Debug\리스트트트.exe.config
+C:\lion7project\laion7\day006\리스트트트\리스트트트\bin\Debug\리스트트트.exe
+C:\lion7project\laion7\day006\리스트트트\리스트트트\bin\Debug\리스트트트.pdb
+C:\lion7project\laion7\day006\리스트트트\리스트트트\obj\Debug\리스트트트.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day006\리스트트트\리스트트트\obj\Debug\리스트트트.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day006\리스트트트\리스트트트\obj\Debug\리스트트트.exe
+C:\lion7project\laion7\day006\리스트트트\리스트트트\obj\Debug\리스트트트.pdb
+C:\lion7project\laion7\day006\리스트트트\리스트트트\obj\Debug\리스트트트.exe.config
