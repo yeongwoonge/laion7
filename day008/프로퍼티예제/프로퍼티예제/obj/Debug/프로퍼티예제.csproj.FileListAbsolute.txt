@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day008\프로퍼티예제\프로퍼티예제\obj\Debug\프로퍼티예제.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day008\프로퍼티예제\프로퍼티예제\obj\Debug\프로퍼티예제.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day008\프로퍼티예제\프로퍼티예제\bin\Debug\프로퍼티예제.exe.config
+C:\lion7project\laion7\day008\프로퍼티예제\프로퍼티예제\bin\Debug\프로퍼티예제.exe
+C:\lion7project\laion7\day008\프로퍼티예제\프로퍼티예제\bin\Debug\프로퍼티예제.pdb
+C:\lion7project\laion7\day008\프로퍼티예제\프로퍼티예제\obj\Debug\프로퍼티예제.exe
+C:\lion7project\laion7\day008\프로퍼티예제\프로퍼티예제\obj\Debug\프로퍼티예제.pdb
+C:\lion7project\laion7\day008\프로퍼티예제\프로퍼티예제\obj\Debug\프로퍼티예제.exe.config

@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day008\클래스\클래스\bin\Debug\클래스.exe.config
+C:\lion7project\laion7\day008\클래스\클래스\bin\Debug\클래스.exe
+C:\lion7project\laion7\day008\클래스\클래스\bin\Debug\클래스.pdb
+C:\lion7project\laion7\day008\클래스\클래스\obj\Debug\클래스.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day008\클래스\클래스\obj\Debug\클래스.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day008\클래스\클래스\obj\Debug\클래스.exe
+C:\lion7project\laion7\day008\클래스\클래스\obj\Debug\클래스.pdb
+C:\lion7project\laion7\day008\클래스\클래스\obj\Debug\클래스.exe.config

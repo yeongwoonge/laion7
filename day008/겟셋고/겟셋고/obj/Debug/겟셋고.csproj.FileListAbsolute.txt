@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day008\겟셋고\겟셋고\obj\Debug\겟셋고.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day008\겟셋고\겟셋고\obj\Debug\겟셋고.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day008\겟셋고\겟셋고\bin\Debug\겟셋고.exe.config
+C:\lion7project\laion7\day008\겟셋고\겟셋고\bin\Debug\겟셋고.exe
+C:\lion7project\laion7\day008\겟셋고\겟셋고\bin\Debug\겟셋고.pdb
+C:\lion7project\laion7\day008\겟셋고\겟셋고\obj\Debug\겟셋고.exe
+C:\lion7project\laion7\day008\겟셋고\겟셋고\obj\Debug\겟셋고.pdb
+C:\lion7project\laion7\day008\겟셋고\겟셋고\obj\Debug\겟셋고.exe.config

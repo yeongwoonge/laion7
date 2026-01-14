@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day009\객체\객체\bin\Debug\객체.exe.config
+C:\lion7project\laion7\day009\객체\객체\bin\Debug\객체.exe
+C:\lion7project\laion7\day009\객체\객체\bin\Debug\객체.pdb
+C:\lion7project\laion7\day009\객체\객체\obj\Debug\객체.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day009\객체\객체\obj\Debug\객체.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day009\객체\객체\obj\Debug\객체.exe
+C:\lion7project\laion7\day009\객체\객체\obj\Debug\객체.pdb
+C:\lion7project\laion7\day009\객체\객체\obj\Debug\객체.exe.config

@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day009\슈팅게임\슈팅게임\bin\Debug\슈팅게임.exe
+C:\lion7project\laion7\day009\슈팅게임\슈팅게임\bin\Debug\슈팅게임.exe.config
+C:\lion7project\laion7\day009\슈팅게임\슈팅게임\obj\Debug\슈팅게임.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day009\슈팅게임\슈팅게임\obj\Debug\슈팅게임.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day009\슈팅게임\슈팅게임\obj\Debug\슈팅게임.exe
+C:\lion7project\laion7\day009\슈팅게임\슈팅게임\obj\Debug\슈팅게임.pdb
+C:\lion7project\laion7\day009\슈팅게임\슈팅게임\obj\Debug\슈팅게임.exe.config
+C:\lion7project\laion7\day009\슈팅게임\슈팅게임\bin\Debug\슈팅게임.pdb

@@ -1,0 +1,7 @@
+C:\lion7project\laion7\day009\아이템\아이템\bin\Debug\아이템.exe.config
+C:\lion7project\laion7\day009\아이템\아이템\bin\Debug\아이템.exe
+C:\lion7project\laion7\day009\아이템\아이템\bin\Debug\아이템.pdb
+C:\lion7project\laion7\day009\아이템\아이템\obj\Debug\아이템.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day009\아이템\아이템\obj\Debug\아이템.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day009\아이템\아이템\obj\Debug\아이템.exe
+C:\lion7project\laion7\day009\아이템\아이템\obj\Debug\아이템.pdb
