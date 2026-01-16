@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|c:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|solutionrelative:\uD14D\uC54C\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|solutionrelative:\uD14D\uC54C\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|solutionrelative:\uD14D\uC54C\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|solutionrelative:\uD14D\uC54C\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|solutionrelative:\uD14D\uC54C\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789652CB-4AB9-498F-82B6-D89E69F0A7F3}|\uD14D\uC54C\\\uD14D\uC54C.csproj|solutionrelative:\uD14D\uC54C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\Field.cs",
+              "RelativeDocumentMoniker": "\uD14D\uC54C\\Field.cs",
+              "ToolTip": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\Field.cs",
+              "RelativeToolTip": "\uD14D\uC54C\\Field.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:37:38.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\Monster.cs",
+              "RelativeDocumentMoniker": "\uD14D\uC54C\\Monster.cs",
+              "ToolTip": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\Monster.cs",
+              "RelativeToolTip": "\uD14D\uC54C\\Monster.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:33:01.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\MainGame.cs",
+              "RelativeDocumentMoniker": "\uD14D\uC54C\\MainGame.cs",
+              "ToolTip": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\MainGame.cs",
+              "RelativeToolTip": "\uD14D\uC54C\\MainGame.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:24:11.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\INFO.cs",
+              "RelativeDocumentMoniker": "\uD14D\uC54C\\INFO.cs",
+              "ToolTip": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\INFO.cs",
+              "RelativeToolTip": "\uD14D\uC54C\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:13:19.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\Player.cs",
+              "RelativeDocumentMoniker": "\uD14D\uC54C\\Player.cs",
+              "ToolTip": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\Player.cs",
+              "RelativeToolTip": "\uD14D\uC54C\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:11:25.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\Program.cs",
+              "RelativeDocumentMoniker": "\uD14D\uC54C\\Program.cs",
+              "ToolTip": "C:\\lion7project\\laion7\\day010\\\uD14D\uC54C\\\uD14D\uC54C\\Program.cs",
+              "RelativeToolTip": "\uD14D\uC54C\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:05:08.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

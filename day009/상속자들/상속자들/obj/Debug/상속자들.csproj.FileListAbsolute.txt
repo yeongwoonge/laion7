@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day009\상속자들\상속자들\obj\Debug\상속자들.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day009\상속자들\상속자들\obj\Debug\상속자들.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day009\상속자들\상속자들\bin\Debug\상속자들.exe.config
+C:\lion7project\laion7\day009\상속자들\상속자들\bin\Debug\상속자들.exe
+C:\lion7project\laion7\day009\상속자들\상속자들\bin\Debug\상속자들.pdb
+C:\lion7project\laion7\day009\상속자들\상속자들\obj\Debug\상속자들.exe
+C:\lion7project\laion7\day009\상속자들\상속자들\obj\Debug\상속자들.pdb
+C:\lion7project\laion7\day009\상속자들\상속자들\obj\Debug\상속자들.exe.config

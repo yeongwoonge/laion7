@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day010\텍알\텍알\bin\Debug\텍알.exe.config
+C:\lion7project\laion7\day010\텍알\텍알\bin\Debug\텍알.exe
+C:\lion7project\laion7\day010\텍알\텍알\bin\Debug\텍알.pdb
+C:\lion7project\laion7\day010\텍알\텍알\obj\Debug\텍알.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day010\텍알\텍알\obj\Debug\텍알.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day010\텍알\텍알\obj\Debug\텍알.exe
+C:\lion7project\laion7\day010\텍알\텍알\obj\Debug\텍알.pdb
+C:\lion7project\laion7\day010\텍알\텍알\obj\Debug\텍알.exe.config

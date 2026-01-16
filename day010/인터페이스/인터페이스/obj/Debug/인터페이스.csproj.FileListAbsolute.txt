@@ -1,0 +1,8 @@
+C:\lion7project\laion7\day010\인터페이스\인터페이스\bin\Debug\인터페이스.exe.config
+C:\lion7project\laion7\day010\인터페이스\인터페이스\bin\Debug\인터페이스.exe
+C:\lion7project\laion7\day010\인터페이스\인터페이스\bin\Debug\인터페이스.pdb
+C:\lion7project\laion7\day010\인터페이스\인터페이스\obj\Debug\인터페이스.csproj.AssemblyReference.cache
+C:\lion7project\laion7\day010\인터페이스\인터페이스\obj\Debug\인터페이스.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\day010\인터페이스\인터페이스\obj\Debug\인터페이스.exe
+C:\lion7project\laion7\day010\인터페이스\인터페이스\obj\Debug\인터페이스.pdb
+C:\lion7project\laion7\day010\인터페이스\인터페이스\obj\Debug\인터페이스.exe.config

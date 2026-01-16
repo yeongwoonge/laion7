@@ -1,0 +1,8 @@
+C:\lion7project\laion7\rererere\rhythm\rhythm\bin\Debug\rhythm.exe.config
+C:\lion7project\laion7\rererere\rhythm\rhythm\bin\Debug\rhythm.exe
+C:\lion7project\laion7\rererere\rhythm\rhythm\bin\Debug\rhythm.pdb
+C:\lion7project\laion7\rererere\rhythm\rhythm\obj\Debug\rhythm.csproj.AssemblyReference.cache
+C:\lion7project\laion7\rererere\rhythm\rhythm\obj\Debug\rhythm.csproj.CoreCompileInputs.cache
+C:\lion7project\laion7\rererere\rhythm\rhythm\obj\Debug\rhythm.exe
+C:\lion7project\laion7\rererere\rhythm\rhythm\obj\Debug\rhythm.pdb
+C:\lion7project\laion7\rererere\rhythm\rhythm\obj\Debug\rhythm.exe.config
